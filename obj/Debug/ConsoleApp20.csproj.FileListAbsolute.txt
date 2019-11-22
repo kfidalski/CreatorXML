@@ -1,0 +1,11 @@
+D:\Users\fidalskik\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+D:\Users\fidalskik\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+D:\Users\fidalskik\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+D:\Users\fidalskik\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csprojResolveAssemblyReference.cache
+D:\Users\fidalskik\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+D:\Users\fidalskik\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+D:\Users\fidalskik\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
+D:\Users\fidalskik\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\CsvHelper.dll
+D:\Users\fidalskik\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\System.ValueTuple.dll
+D:\Users\fidalskik\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\System.ValueTuple.xml
+D:\Users\fidalskik\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CopyComplete
